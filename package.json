@@ -3,6 +3,10 @@
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
+    "dev:jdfrontend": "turbo --filter jdfrontend dev",
+    "dev:jdbackend": "turbo --filter jdbackend dev",
+    "lint:jdbackend": "turbo --filter jdbackend lint",
+    "test:jdbackend": "turbo --filter jdbackend test",
     "lint": "turbo lint",
     "type-check": "turbo type-check",
     "clean": "turbo clean",

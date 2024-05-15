@@ -1,6 +1,6 @@
 # Turborepo Tailwind CSS starter
 
-This is an official starter Turborepo.
+This is an Custom turbo repo used nest and nest js
 
 ## Using this example
 
